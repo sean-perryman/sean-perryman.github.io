@@ -2,7 +2,7 @@
 layout: post
 title: "Why, VMware, why?"
 categories: computing
-date: '2021-08-21 09:00:00 -0400'
+date: '2021-08-16 09:00:00 -0400'
 ---
 My first VMware deployments went about like everyone elses'; local storage on the host, stand alone hosts (even 
 multiple). This gave way to implementing a vCenter server for centralized control (and the ability to migrate, 
