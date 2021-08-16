@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Time Management
+date: '2021-08-16 12:00:00 -0400'
 ---
 Time management has always been a tough subject for me. No matter what I do it seems there are more things to do in the day than I have time for; probably 
 something everyone struggles with at one time or another. I have decided to try a stick to some type of a schedule, though I don't have it all quite down yet. 
