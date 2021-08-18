@@ -28,7 +28,8 @@ url: "http://seanperryman.com" # the base hostname & protocol for your site, e.g
 github_username:  sean-perryman
 
 # Build settings
-theme: jekyll-theme-hacker
+#theme: jekyll-theme-hacker
+theme: Minima
 plugins:
   - jekyll-feed
 
