@@ -1,6 +1,6 @@
 --- 
 layout: post 
-title: Ethics in Video Games: Fallout 
+title: "Ethics in Video Games: Fallout" 
 date: '2021-08-24 16:30:00 -0400' 
 --- 
 I did eventually beat the opening quest of Fallout. I went to Necropolis, talked with the ghouls, and was successful in retrieving their water chip. On the 
