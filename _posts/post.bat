@@ -13,5 +13,7 @@ set string=%string: =-%
 echo --- > %datestr%-%string%.md
 echo layout: post >> %datestr%-%string%.md
 echo title: %* >> %datestr%-%string%.md
-echo date: '%datestr% 09:30:00 -0400' >> %datestr%-%string%.md
+echo date: '%datestr% %time% -0400' >> %datestr%-%string%.md
 echo --- >> %datestr%-%string%.md
+
+nano %datestr%-%string%.md
