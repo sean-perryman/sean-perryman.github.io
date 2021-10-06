@@ -1,7 +1,7 @@
 --- 
 layout: post 
 title: About That Book LOL 
-date: '2021-10-01  6:49:15.61 -0400' 
+date: '2021-10-03  6:49:15.61 -0400' 
 --- 
 At the beginning of the year I started writing a book. Not targetted as "young adult" specifically, it does 
 feature a younger protagonist (17) and is science-fiction in nature. I made what I consider to be great 
