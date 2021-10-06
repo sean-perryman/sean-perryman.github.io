@@ -17,3 +17,5 @@ echo date: '%datestr% %time% -0400' >> %datestr%-%string%.md
 echo --- >> %datestr%-%string%.md
 
 nano %datestr%-%string%.md
+
+echo %datestr%-%string%.md
