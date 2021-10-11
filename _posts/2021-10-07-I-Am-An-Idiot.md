@@ -5,8 +5,8 @@ date: '2021-10-07 19:23:50.35 -0400'
 --- 
 If you look at the repo for this *blog* you will see something called post.bat. This is what I do:
 
-1. Type in *post <Post Title Goes Here>*
-2. Write my post, sometimes changing the date in the date: field.
+1. Type in *post "Post Title Goes Here Without Quotes"*
+2. Write my post, sometimes changing the date in the *date:* field.
 3. I have the script output the file name on screen so I can copy it and paste it to a move command so 
 everything is good and proper.
 
