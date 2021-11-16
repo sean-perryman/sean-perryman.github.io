@@ -1,7 +1,7 @@
 --- 
 layout: post 
-title: COTW2: Surtur, You Dirty Bastard 
-date: '2021-11-10  5:45:26.37 -0400' 
+title: "COTW2: Surtur, You Dirty Bastard"
+date: '2021-11-10 5:45:26.37 -0400' 
 --- 
 First of all, I made it to the bottom of the Castle of the Winds 2 dungeon. On the 24th level, I ran into a 
 weirdness where if I picked up this specific belt from the floor, my game would shit the bed and I could no 
