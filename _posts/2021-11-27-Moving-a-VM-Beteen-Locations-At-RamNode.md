@@ -7,7 +7,8 @@ This subject comes up a lot, so I thought I would post this here in case someone
 it helps. Currently, Fleio is not capable of moving anything between regions; every location has to have their 
 own images, VMs, etc..
 
-1. [Install the OpenStack commandline client on Ubuntu 20.04]()
+1. [Install the OpenStack commandline client on Ubuntu 
+20.04](https://seanperryman.com/2021/11/26/New-Way-To-Install-OpenStack-Client.html)
 2. Grab your openrc from the API Users tab for the SOURCE location. You can go ahead and grab one for the 
 destination as well. 
 3. Source the openrc file (source openrc, duh)
