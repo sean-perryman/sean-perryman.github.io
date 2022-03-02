@@ -1,7 +1,7 @@
 --- 
 layout: post 
 title: Additional Tax Software Updates May Be A Good Thing 
-date: '2022-03-02  5:51:24.08 -0400' 
+date: '2022-02-17  5:51:24.08 -0400' 
 --- 
 I am always looking for motivation in things that may not exactly be fun or exciting. Since Wolters Kluwer announced they are 
 now updating ProSystem fx Tax mid-week as well as Saturday night (and now apparently Friday night as well), I have found myself 
