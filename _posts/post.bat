@@ -19,3 +19,7 @@ echo --- >> %datestr%-%string%.md
 nano %datestr%-%string%.md
 
 echo %datestr%-%string%.md
+
+set /p delToday=Delete post filename with todays date? (Do this if you are back-dating posts) [y/n]?:
+
+if %delToday%==y ( del %datestr%-%string%.md )
