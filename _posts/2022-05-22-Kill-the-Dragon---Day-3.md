@@ -1,7 +1,7 @@
 --- 
 layout: post 
 title: Kill the Dragon - Day 3 
-date: '2022-05-23 16:45:59.37 -0400' 
+date: '2022-05-22 16:45:59.37 -0400' 
 --- 
 I forgot to mention that on Day 2 I also spent some time restoring the house I am living it. Removing cobwebs, 
 replacing the missing logs and cobble, that sort of thing. At some point I am going to have to smelt some sand 
