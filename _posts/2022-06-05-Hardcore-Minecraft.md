@@ -1,7 +1,7 @@
 --- 
 layout: post 
 title: Hardcore Minecraft 
-date: '2022-06-07  7:12:50.03 -0400' 
+date: '2022-06-05  7:12:50.03 -0400' 
 --- 
 I know I've talked about this 100 times at least, but I really like Hardcore Minecraft, even though it is too 
 hard for me. I mean that in a general sense, since I have never been able to complete the game in Hardcore mode. 
